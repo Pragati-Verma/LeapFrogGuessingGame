@@ -1,0 +1,14 @@
+D:\Practice\C#\LeapFrogGuessingGame\bin\Debug\net8.0\LeapFrogGuessingGame.exe
+D:\Practice\C#\LeapFrogGuessingGame\bin\Debug\net8.0\LeapFrogGuessingGame.deps.json
+D:\Practice\C#\LeapFrogGuessingGame\bin\Debug\net8.0\LeapFrogGuessingGame.runtimeconfig.json
+D:\Practice\C#\LeapFrogGuessingGame\bin\Debug\net8.0\LeapFrogGuessingGame.dll
+D:\Practice\C#\LeapFrogGuessingGame\bin\Debug\net8.0\LeapFrogGuessingGame.pdb
+D:\Practice\C#\LeapFrogGuessingGame\obj\Debug\net8.0\LeapFrogGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\C#\LeapFrogGuessingGame\obj\Debug\net8.0\LeapFrogGuessingGame.AssemblyInfoInputs.cache
+D:\Practice\C#\LeapFrogGuessingGame\obj\Debug\net8.0\LeapFrogGuessingGame.AssemblyInfo.cs
+D:\Practice\C#\LeapFrogGuessingGame\obj\Debug\net8.0\LeapFrogGuessingGame.csproj.CoreCompileInputs.cache
+D:\Practice\C#\LeapFrogGuessingGame\obj\Debug\net8.0\LeapFrogGuessingGame.dll
+D:\Practice\C#\LeapFrogGuessingGame\obj\Debug\net8.0\refint\LeapFrogGuessingGame.dll
+D:\Practice\C#\LeapFrogGuessingGame\obj\Debug\net8.0\LeapFrogGuessingGame.pdb
+D:\Practice\C#\LeapFrogGuessingGame\obj\Debug\net8.0\LeapFrogGuessingGame.genruntimeconfig.cache
+D:\Practice\C#\LeapFrogGuessingGame\obj\Debug\net8.0\ref\LeapFrogGuessingGame.dll
